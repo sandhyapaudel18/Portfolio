@@ -1,0 +1,29 @@
+ *{
+    margin:0px;
+    padding:0px;
+ }
+ body{
+    height:100%;
+    width:100%;
+    background-color:rgb(25, 34, 64) ;
+ }
+nav{
+    height:60px;
+    width:100%;
+    background-color:white;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.div1{
+    display:inline;
+
+}
+.div2{
+    display:flex;
+}
+
+
+
+
