@@ -53,17 +53,19 @@ main{
     justify-content:center ;
     flex-direction:row;
     align-items: center;
-
+padding-top:60px;
 }
 .HOME{
-    height:600px;
-    width:50vw;
+    height:500px;
+    width:60vw;
     color:white;
+    margin-top:110px;
+    margin-left:70px;
 }
 .div0{
-    height:600px;
-    width:50vw;
-    background-color: white;
+    height:500px;
+    width:30vw;
+    background-color:transparent;
 }
 .div3{
    
